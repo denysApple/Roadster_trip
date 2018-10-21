@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/den4i/Desktop/build/1.apk
+C:/Users/den4i/Desktop/build/9_camera.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -216,3 +216,4 @@ f46eb1797fb520e80d5d530f879a2187 Assembly-CSharp.dll:GoogleVR.VideoDemo.MenuHand
 e241599c091a039de89f5e0a1c125183 Assembly-CSharp.dll:.GvrControllerReticleVisual
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.GvrXREventsSubscriber
 5c887c78dd8476e1e5d5e0f9feb1e5e7 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlayVideo
+3c98abce2c38b1c43fd516b8e5ef9bf5 Assembly-CSharp.dll:.MovingRoadster
