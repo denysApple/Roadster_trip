@@ -9,4 +9,4 @@ in Lviv, Ukraine
 Created in 2.5 days by four Junior Android Developers and one .Net Developer
 
 
-This APP took second place on this tournament after so cool project that was'nt created in few days like our one..
+This VR app took second place on this tournament after so cool project that wasn't created in few days like our one..
